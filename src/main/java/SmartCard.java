@@ -1,3 +1,4 @@
+//CI/CD test: triggering pipeline
 public class SmartCard {
     private int cardID;
     private double balance;
